@@ -19,7 +19,7 @@ MarketLens is an interactive stock analysis and forecasting dashboard built with
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/marketlens-dashboard.git
+git clone https://github.com/omar23121/marketlens-dashboard.git
 cd marketlens-dashboard
 pip install -r requirements.txt
 streamlit run app.py
@@ -51,4 +51,4 @@ This project is for educational and portfolio purposes only. It does not provide
 - Improve UI/UX
 
 ## Author
-Developed as a data science and financial analytics project using Python and Streamlit.
+Omar Almahmoud
