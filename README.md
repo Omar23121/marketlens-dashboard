@@ -38,7 +38,13 @@ marketlens-dashboard/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── screenshots/
+    ├── Overview.png
+    ├── Technical Analysis.png
+    ├── Forecasting.png
+    ├── Comparison.png
+    └── Methodology.png
 ```
 
 ## Disclaimer
